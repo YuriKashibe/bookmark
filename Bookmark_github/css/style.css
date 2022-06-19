@@ -1,0 +1,31 @@
+.navbar-default{
+    background-color: darkblue;
+}
+
+.navbar-brand{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.navbar-header{
+    text-align: center;
+}
+
+.jumbotron{
+    margin: 20px;
+}
+
+fieldset{
+    background-color: azure;
+}
+
+input[type="submit"]:hover{
+    cursor: pointer;
+    color: white;
+    background-color: navy;
+}
+
+.result{
+    border-radius: 2px;
+}
